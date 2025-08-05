@@ -1,4 +1,3 @@
-# Livraria-virtual
 # API Correios – Rastreamento de Pacotes
 
 Este projeto faz o consumo de uma API dos Correios para realizar o rastreamento de objetos.
@@ -16,6 +15,10 @@ O script faz requisições HTTP para obter dados de rastreamento de pacotes e ex
 2. Instale as dependências:
 ```bash
 pip install requests
-
+```
+3. Rode o script:
+```bash
 python rastreamento.py
+```
 
+> Esse projeto foi criado como exercício para praticar consumo de APIs REST com Python.
