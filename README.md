@@ -32,7 +32,7 @@ python untitled0.py
 ```
 
 > 💡 Você também pode rodar o projeto direto no Google Colab:
-▶️ [Abrir no Google Colab]((https://colab.research.google.com/drive/15ZkeiTnNE9UyIkQcZ2gd_xEwy5F0plJH]))
+▶️ [Abrir no Google Colab](https://colab.research.google.com/drive/15ZkeiTnNE9UyIkQcZ2gd_xEwy5F0plJH])
 
 ---
 
